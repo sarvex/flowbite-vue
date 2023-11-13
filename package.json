@@ -43,7 +43,7 @@
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "1.4.0",
-    "@types/lodash-es": "4.17.9",
+    "@types/lodash-es": "4.17.11",
     "@types/node": "20.6.0",
     "@vitejs/plugin-vue": "4.3.4",
     "@vitest/coverage-v8": "0.34.4",
